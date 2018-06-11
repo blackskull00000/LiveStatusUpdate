@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "185632478306",
+    "firebase_url": "https://liveupdatestatus-41942.firebaseio.com",
+    "project_id": "liveupdatestatus-41942",
+    "storage_bucket": "liveupdatestatus-41942.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:185632478306:android:6783fac02cfc7e63",
+        "android_client_info": {
+          "package_name": "com.ranezgmail.shubham16.livestatusupdate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "185632478306-1r944b41adtfc09udcmprgrluene1407.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ranezgmail.shubham16.livestatusupdate",
+            "certificate_hash": "f2eae7bb86c03a9c97c4a4a9e27c7208707b3c42"
+          }
+        },
+        {
+          "client_id": "185632478306-uaaumbrlg212ltbss2svgaruc28l100o.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "185632478306-uaaumbrlg212ltbss2svgaruc28l100o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaIepSlhwaOLKjGydA1sU7md2H8HTJp7A"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "185632478306-uaaumbrlg212ltbss2svgaruc28l100o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
