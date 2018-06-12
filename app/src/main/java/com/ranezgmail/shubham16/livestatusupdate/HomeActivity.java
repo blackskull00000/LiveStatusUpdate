@@ -99,6 +99,7 @@ public class HomeActivity extends AppCompatActivity {
         View view;
         public StatusViewHolder(View itemView){
             super(itemView);
+            view = itemView;
         }
 
 
